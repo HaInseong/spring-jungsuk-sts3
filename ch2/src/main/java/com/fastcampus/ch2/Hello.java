@@ -31,6 +31,7 @@ public class Hello {
 	//그러나 클래스 내부에서는 private이다.
 		System.out.println("Hello3 - private");
 		System.out.println(cv);
-		//
+		System.out.println("깃 커밋 되는데?");
+		System.out.println("깃 커밋 되는데?");
 	}
 }
