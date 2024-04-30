@@ -2,7 +2,7 @@ package com.fastcampus.ch2;
 
 import java.lang.reflect.Method;
 
-public class Main {
+public class PrivateMethodCall {
 	public static void main(String[] args) throws Exception {
 		Hello hello = new Hello();
 		// hello.main3();//private이라서 Error발생, 외부에서 URL로는 접근 가능하지만 클래스 내에서는 접근제어자 규칙 따름
